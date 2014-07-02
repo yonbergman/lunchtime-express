@@ -6,4 +6,7 @@ class ApplicationController < ActionController::Base
   def root
 
   end
+
+  def map
+  end
 end

@@ -1,0 +1,11 @@
+.map
+  <div id="gmap_canvas"></div>
+  <style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
+
+
+.list-group.hidden
+  - Restaurant.all.shuffle.each do |restaurant|
+    %a{:href => '#', class: 'list-group-item rest', :id => restaurant.token}
+      = render 'application/restaurant', restaurant: restaurant
+
+= render 'application/js'
