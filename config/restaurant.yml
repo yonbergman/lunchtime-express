@@ -3,191 +3,296 @@
   where: Rothschild
   dish: The Old-School Aglio et Olio
   stars: 3
+  location:
+    lat: 32.06321
+    lng: 34.770914
 
 - name: Vong
   type: vietnamese
   where: Rothschild
   dish: Rice and Curry
   stars: 3
+  location:
+    lat: 32.063257
+    lng: 34.771169
 
 - name: Cafe Louise
   type: vegetarian
   where: Rothschild and Hertzel
   dish: Veggie Paella
   stars: 3
+  location:
+    lat: 32.063114
+    lng: 34.770139
 
 - name: Meshek Barzilai
   type: vegetarian
   where: Neve Tzedek
   dish: The Veggie Burger
   stars: 3
+  location:
+    lat: 32.063144
+    lng: 34.768423
 
 - name: Shalush
   type: salads
   where: Hertzel
   dish: Build-a-salad
   stars: 2
+  location:
+    lat: 32.062696
+    lng: 34.769968
 
 - name: Donkey
   type: mexican
   where: Hertzel
   dish: The Burrito Bowl
   stars: 2
+  location:
+    lat: 32.062607
+    lng: 34.769981
 
 - name: Sandwich
   type: sandwich
   where: Nahalt Binyamin
   dish: Umami
   stars: 2
+  location:
+    lat: 32.063939
+    lng: 34.771464
 
 - name: Ditta
   type: bistro
   where: Neve Tzedek
   dish: Any of their Salads
   stars: 2
+  location:
+    lat: 32.062955
+    lng: 34.767065
 
 - name: Okinawa
   type: sushi
   where: Neve Tzedek
   dish: 3 piece combo
   stars: 3
+  location:
+    lat: 32.062885
+    lng: 34.767082
 
 - name: Loveat
   type: salads
   where: Barzilai
   dish: The Salat-tabula
   stars: 2
+  location:
+    lat: 32.062432
+    lng: 34.775155
 
 - name: Chef Salad
   type: salads
   where: Yehuda Ha-Levi / Alenby
   dish: Ceaser Artichoke
   stars: 3
+  location:
+    lat: 32.062196
+    lng: 34.773727
 
 - name: Hummosim
   type: hummus
   where: Lillinblum/ Hertzel
   dish: Salad-Hummus
   stars: 3
+  location:
+    lat: 32.0622
+    lng: 34.769811
 
 - name: Budha burger
   type: vegetarian
   where: Yehuda Ha-Levi / Hertzel
   dish: Build-a-salad
   stars: 1
+  location:
+    lat: 32.061518
+    lng: 34.770138
 
 - name: Aroma
   type: cafe
   where: Hertzel / Yehuda Ha-Levi
   stars: 1
+  location:
+    lat: 32.061573
+    lng: 34.770347
 
 - name: Olive
   type: salads
   where: Lillinblum/ Hertzel
   dish: Build-a-salad
   stars: 2
+  location:
+    lat: 32.062107
+    lng: 34.770081
 
 - name: Burgerim
   type: hamburger
   where: Hertzel
   stars: 1
+  location:
+    lat: 32.062684
+    lng: 34.770061
 
 - name: River
   type: asian
   where: Hertzel
   dish: Pad Thai
   stars: 2
+  location:
+    lat: 32.063155
+    lng: 34.769951
 
 - name: Coffee House
   type: breakfast
   where: Rothschild / Nahalat Binyamin
   dish: Shakshuka
   stars: 1
+  location:
+    lat: 32.063318
+    lng: 34.771787
 
 - name: Silence
   type: salads
   where: Ehad Ha-Am
   dish: Build-a-salad
   stars: 2
+  location:
+    lat: 32.064126
+    lng: 34.772556
 
 - name: Salam Bombay
   type: indian
   where: Alenby
   stars: 2
+  location:
+    lat: 32.062703
+    lng: 34.773184
 
 - name: Allora
   type: italian
   where: Rothschild
   dish: Anything with the Gnocchi
   stars: 2
+  location:
+    lat: 32.06446
+    lng: 34.775976
 
 - name: Sushia
   type: sushi
   where: Rothschild
   dish: Veggie Combo
   stars: 2
+  location:
+    lat: 32.064198
+    lng: 34.774785
 
 - name: Moses
   type: hamburger
   where: Rothschild
   stars: 2
+  location:
+    lat: 32.063894
+    lng: 34.773637
 
 - name: Benedict
   type: breakfast
   where: Rothschild
   stars: 1
+  location:
+    lat: 32.063644
+    lng: 34.772851
 
 - name: Arcaffee
   type: cafe
   stars: 1
+  location:
+    lat: 32.064154
+    lng: 34.774567
 
 - name: Abba Gil
   type: vegetarian
   stars: 1
+  location:
+    lat: 32.06243
+    lng: 34.774345
 
 - name: Hummus Eliahu
   type: hummus
   where: Alenby
   stars: 1
+  location:
+    lat: 32.061368
+    lng: 34.7739
 
 - name: Dim Sum Station
   type: asian
   where: Yehuda Ha-Levi
   dish: Veggie Pad-Thai
   stars: 2
+  location:
+    lat: 32.061527
+    lng: 34.772625
 
 - name: Nanuchka
   type: vegetarian
   where: Lillinblum
   stars: 3
+  location:
+    lat: 32.062173
+    lng: 34.770664
 
 - name: Wolfnights
   type: hamburger
   where: Nahalat Binyamin
   stars: 1
+  location:
+    lat: 32.062285
+    lng: 34.772033
 
 - name: Nana Bar
   type: bistro
   where: Neve Tzedek
   stars: 1
+  location:
+    lat: 32.063206
+    lng: 34.768161
 
 - name: Cafe Birenbaum
   type: vegetarian
   where: Nahalat Binyamin
   stars: 1
+  location:
+    lat: 32.066232
+    lng: 34.77053
 
 - name: Cafe Landver
   type: cafe
   where: Rothschild
   stars: 1
+  location:
+    lat: 32.064154
+    lng: 34.774567
 
 - name: La Republica
   type: italian
   where: 'Mezze'
   stars: 1
+  location:
+    lat: 32.067213
+    lng: 34.772064
 
 - name: Mezze
   type: vegetarian
   where: 'Mezze'
   dish: 'Any of their Thina'
   stars: 1
+  location:
+    lat: 32.066335
+    lng: 34.776442

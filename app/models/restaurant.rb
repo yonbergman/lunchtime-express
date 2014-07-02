@@ -3,6 +3,14 @@ class Restaurant < Hashie::Mash
     @all ||= YAML.load_file('config/restaurant.yml').map{|d| Restaurant.new(d)}
   end
 
+  def token
+    @t ||= rand(100000000)
+  end
+
+  def as_json(options)
+    super(options).merge(token: token)
+  end
+
   def icon
     case(type)
       when /italian/ then '5'
