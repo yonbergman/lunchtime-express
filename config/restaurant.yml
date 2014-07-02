@@ -1,0 +1,193 @@
+- name: Rustico
+  type: italian
+  where: Rothschild
+  dish: The Old-School Aglio et Olio
+  stars: 3
+
+- name: Vong
+  type: vietnamese
+  where: Rothschild
+  dish: Rice and Curry
+  stars: 3
+
+- name: Cafe Louise
+  type: vegetarian
+  where: Rothschild and Hertzel
+  dish: Veggie Paella
+  stars: 3
+
+- name: Meshek Barzilai
+  type: vegetarian
+  where: Neve Tzedek
+  dish: The Veggie Burger
+  stars: 3
+
+- name: Shalush
+  type: salads
+  where: Hertzel
+  dish: Build-a-salad
+  stars: 2
+
+- name: Donkey
+  type: mexican
+  where: Hertzel
+  dish: The Burrito Bowl
+  stars: 2
+
+- name: Sandwich
+  type: sandwich
+  where: Nahalt Binyamin
+  dish: Umami
+  stars: 2
+
+- name: Ditta
+  type: bistro
+  where: Neve Tzedek
+  dish: Any of their Salads
+  stars: 2
+
+- name: Okinawa
+  type: sushi
+  where: Neve Tzedek
+  dish: 3 piece combo
+  stars: 3
+
+- name: Loveat
+  type: salads
+  where: Barzilai
+  dish: The Salat-tabula
+  stars: 2
+
+- name: Chef Salad
+  type: salads
+  where: Yehuda Ha-Levi / Alenby
+  dish: Ceaser Artichoke
+  stars: 3
+
+- name: Hummosim
+  type: hummus
+  where: Lillinblum/ Hertzel
+  dish: Salad-Hummus
+  stars: 3
+
+- name: Budha burger
+  type: vegetarian
+  where: Yehuda Ha-Levi / Hertzel
+  dish: Build-a-salad
+  stars: 1
+
+- name: Aroma
+  type: cafe
+  where: Hertzel / Yehuda Ha-Levi
+  stars: 1
+
+- name: Olive
+  type: salads
+  where: Lillinblum/ Hertzel
+  dish: Build-a-salad
+  stars: 2
+
+- name: Burgerim
+  type: hamburger
+  where: Hertzel
+  stars: 1
+
+- name: River
+  type: asian
+  where: Hertzel
+  dish: Pad Thai
+  stars: 2
+
+- name: Coffee House
+  type: breakfast
+  where: Rothschild / Nahalat Binyamin
+  dish: Shakshuka
+  stars: 1
+
+- name: Silence
+  type: salads
+  where: Ehad Ha-Am
+  dish: Build-a-salad
+  stars: 2
+
+- name: Salam Bombay
+  type: indian
+  where: Alenby
+  stars: 2
+
+- name: Allora
+  type: italian
+  where: Rothschild
+  dish: Anything with the Gnocchi
+  stars: 2
+
+- name: Sushia
+  type: sushi
+  where: Rothschild
+  dish: Veggie Combo
+  stars: 2
+
+- name: Moses
+  type: hamburger
+  where: Rothschild
+  stars: 2
+
+- name: Benedict
+  type: breakfast
+  where: Rothschild
+  stars: 1
+
+- name: Arcaffee
+  type: cafe
+  stars: 1
+
+- name: Abba Gil
+  type: vegetarian
+  stars: 1
+
+- name: Hummus Eliahu
+  type: hummus
+  where: Alenby
+  stars: 1
+
+- name: Dim Sum Station
+  type: asian
+  where: Yehuda Ha-Levi
+  dish: Veggie Pad-Thai
+  stars: 2
+
+- name: Nanuchka
+  type: vegetarian
+  where: Lillinblum
+  stars: 3
+
+- name: Wolfnights
+  type: hamburger
+  where: Nahalat Binyamin
+  stars: 1
+
+- name: Nana Bar
+  type: bistro
+  where: Neve Tzedek
+  stars: 1
+
+- name: Cafe Birenbaum
+  type: vegetarian
+  where: Nahalat Binyamin
+  stars: 1
+
+- name: Cafe Landver
+  type: cafe
+  where: Rothschild
+  stars: 1
+
+- name: La Republica
+  type: italian
+  where: 'Mezze'
+  stars: 1
+
+- name: Mezze
+  type: vegetarian
+  where: 'Mezze'
+  dish: 'Any of their Thina'
+  stars: 1

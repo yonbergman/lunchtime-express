@@ -1,0 +1,23 @@
+%h2
+  Welcome to the area
+  .lead Here are some places you should check out
+
+.list-group
+  - Restaurant.all.shuffle.each do |restaurant|
+    %a{:href => '#', class: 'list-group-item'}
+      .cuisine{:style => "color: #{restaurant.color}"}= restaurant.icon
+      .div
+        %small.stars
+          - restaurant.stars.times do
+            %i.fa.fa-star
+      .div
+        %span.lead= restaurant.name
+        %span (#{restaurant.type})
+      - if restaurant.where.present?
+        .div
+          %strong Where:
+          %span= restaurant.where
+      - if restaurant.dish.present?
+        .div
+          %strong Recommended Dish:
+          %span= restaurant.dish

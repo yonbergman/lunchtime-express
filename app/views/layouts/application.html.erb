@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lunchtime Express</title>
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <link rel="shortcut icon" href="/favicon.png" />
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<%= render 'layouts/header' %>
+<div class="container">
+    <%= yield %>
+</div>
+
+<footer>
+  Made with Love
+  <br>
+  <a href="http://twitter.com/yonbergman">@yonbergman</a>
+</footer>
+
+</body>
+</html>

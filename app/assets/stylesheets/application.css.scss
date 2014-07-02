@@ -1,0 +1,99 @@
+@import 'bootstrap';
+@import 'font-awesome';
+
+
+
+@font-face {
+    font-family: 'ef_cuisinesregular';
+    src: url('/efcuisines-regular-webfont.eot');
+    src: url('/efcuisines-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/efcuisines-regular-webfont.woff') format('woff'),
+         url('/efcuisines-regular-webfont.ttf') format('truetype'),
+         url('/efcuisines-regular-webfont.svg#ef_cuisinesregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.cuisine{
+  font-family: 'ef_cuisinesregular';
+  font-size: 36px;
+  font-weight: 100;
+  padding: 0;
+  background: none;
+  margin-right: 14px;
+  line-height: 1;
+  float: left;
+}
+div.div{
+  margin-left: 39px;
+}
+
+body{
+  background-color: #FF9DBE;
+  .list-group-item{
+    background-color: rgba(white, 0.8);
+    border-color: rgba(black, 0.2);
+    min-height: 48px;
+  }
+  .navbar-default{
+    background-color: #3FB8AF;
+    border: none;
+    border-bottom: 5px solid #7FC7AF;
+    box-shadow: 0 5px 0 #DAD8A7, 0 10px 0 #FF9E9D;
+    border-radius: 0;
+    .navbar-brand{
+      font-size: 2em;
+      color: white;
+      &:hover{
+              color: rgba(white, 0.7);
+            }
+      .cuisine{
+        margin: auto;
+        line-height: normal;
+        vertical-align: middle;
+        float: none;
+        display: inline;
+        margin-right: 10px;
+        font-weight: lighter;
+      }
+    }
+    .navbar-nav > li > a{
+      color: white;
+      &:hover{
+        color: rgba(white, 0.7);
+      }
+    }
+
+  }
+}
+
+.navbar-default .navbar-toggle{
+  border-color: rgba(white, 0.4);
+  .icon-bar{
+    background-color: rgba(white, 0.4);
+  }
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+  background: rgba(white, 0.5);
+}
+
+footer{
+  margin-top: 20px;
+  border-top: 1px solid rgba(white, 0.5);
+  padding-top: 20px;
+  text-align: center;
+  color: rgba(white, 1);
+  padding-bottom: 40px;
+  a{
+    color: rgba(white, 0.75);
+    &:hover{
+      color: rgba(white, 0.85);
+    }
+  }
+  background: url('/yon.png');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 100px 95px;
+
+}
