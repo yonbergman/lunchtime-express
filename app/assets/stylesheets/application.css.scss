@@ -30,17 +30,17 @@ div.div{
 }
 
 body{
-  background-color: #FF9DBE;
+  background-color: #e8eaf6;
   .list-group-item{
     background-color: rgba(white, 0.8);
     border-color: rgba(black, 0.2);
     min-height: 85px;
   }
   .navbar-default{
-    background-color: #3FB8AF;
+    background-color: #3f51b5;
     border: none;
-    border-bottom: 5px solid #7FC7AF;
-    box-shadow: 0 5px 0 #DAD8A7, 0 10px 0 #FF9E9D;
+    border-bottom: 5px solid #303f9f;
+//    box-shadow: 0 5px 0 #7986cb, 0 10px 0 #c5cae9;
     border-radius: 0;
     .navbar-brand{
       font-size: 2em;
@@ -81,15 +81,15 @@ body{
 
 footer{
   margin-top: 20px;
-  border-top: 1px solid rgba(white, 0.5);
+  border-top: 1px solid #1a237e;
   padding-top: 20px;
   text-align: center;
-  color: rgba(white, 1);
+  color: #3f51b5;
   padding-bottom: 40px;
   a{
-    color: rgba(white, 0.75);
+    color: #1a237e;
     &:hover{
-      color: rgba(white, 0.85);
+      color: #3f51b5;
     }
   }
   background: url('/yon.png');
