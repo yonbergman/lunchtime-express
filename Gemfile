@@ -19,4 +19,6 @@ gem 'turbolinks'
 
 gem 'hashie'
 
+gem 'rails_12factor'
+
 
