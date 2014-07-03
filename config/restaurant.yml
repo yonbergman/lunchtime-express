@@ -13,8 +13,33 @@
   dish: Rice and Curry
   stars: 3
   location:
-    lat: 32.063257
-    lng: 34.771169
+    lat: 32.06321
+    lng: 34.770788
+
+- name: Zupa
+  type: soup
+  where: Ehad Ha-Am
+  dish: The Vichyssoise
+  stars: 3
+  location:
+    lat: 32.063887
+    lng: 34.771577
+
+- name: Zakaiim
+  type: vegetarian
+  where: Alenby
+  stars: 1
+  location:
+    lat: 32.065817
+    lng: 34.771875
+
+- name: Agadir
+  type: hamburger
+  where: Nahalat-Binyamin
+  stars: 1
+  location:
+    lat: 32.069256
+    lng: 34.770204
 
 - name: Cafe Louise
   type: vegetarian
@@ -34,7 +59,7 @@
     lat: 32.063144
     lng: 34.768423
 
-- name: Shalush
+- name: Shalosh
   type: salads
   where: Hertzel
   dish: Build-a-salad
@@ -97,7 +122,7 @@
     lat: 32.062196
     lng: 34.773727
 
-- name: Hummosim
+- name: Hummusim
   type: hummus
   where: Lillinblum/ Hertzel
   dish: Salad-Hummus
@@ -106,7 +131,7 @@
     lat: 32.0622
     lng: 34.769811
 
-- name: Budha burger
+- name: Buddha burger
   type: vegetarian
   where: Yehuda Ha-Levi / Hertzel
   dish: Build-a-salad
@@ -184,7 +209,7 @@
     lat: 32.06446
     lng: 34.775976
 
-- name: Sushia
+- name: HaSushia
   type: sushi
   where: Rothschild
   dish: Veggie Combo
