@@ -32,6 +32,7 @@
     var marker = all_markers[id];
     if (marker){
       new google.maps.event.trigger( marker, 'click' );
+      window.scrollTo(0, 0);
     }
     return false;
   })
